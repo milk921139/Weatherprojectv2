@@ -72,15 +72,15 @@ export default function Weather(props) {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.shecodes.io/"
+            href="sandiejotrina@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            SheCodes
+            Sandie Dela Cruz
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/shecodesio/weather"
+            href="https://github.com/milk921139/Weatherprojectv2"
             target="_blank"
             rel="noopener noreferrer"
           >
