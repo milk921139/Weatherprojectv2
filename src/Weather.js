@@ -70,21 +70,15 @@ export default function Weather(props) {
         <WeatherInfo data={weatherData} />
         <WeatherForecast coordinates={weatherData.coordinates} city={weatherData.city}/>
         <footer>
-          This project was coded by{" "}
-          <a
-          >
-            Sandie Jotrina
-          </a>{" "}
-          and is{" "}
+          This project was coded by
+          Sandie Jotrina
           <a
             href="https://github.com/milk921139/Weatherprojectv2"
             target="_blank"
             rel="noopener noreferrer"
           >
             open-sourced on GitHub
-          </a>{" "}
-          and{" "}
-          
+          </a>
            
         </footer>
       </div>
